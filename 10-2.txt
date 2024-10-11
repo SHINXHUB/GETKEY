@@ -4829,6 +4829,9 @@ end)
     Main:AddSlider("Pos Y",0,50,45,function(value)
     PosY = value
     end)
+PosX = 1
+PosY = 35
+PosZ = 40
 
     Main:AddSeperator("Misc Setting Mastery")
     
